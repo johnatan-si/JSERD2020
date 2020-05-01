@@ -17,4 +17,4 @@ Figures below reveals the participants’ background. It is worthhighlighting ha
 
 | Type of developer  | 
 | ---          |  
-|   ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/applications.PNG?v=4&s=200  ) |   
+|   ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/applications.PNG?v=4&s=20  ) |   
