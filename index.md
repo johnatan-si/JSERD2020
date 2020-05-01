@@ -9,12 +9,12 @@ Figures below reveals the participants’ background. It is worthhighlighting ha
 
 | (a) Level of education  | (b) Course graduated |
 | ---          |     ---        |
-|   ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG?v=4&s=200 )        |      ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/graduated.PNG  )      |
+|   ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG?v=4&s=200 )        |      ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/graduated.PNG?v=4&s=200  )      |
 
 | (c) Professional experience  | (d) Frequency of use Git  |
 | ---          |     ---        |
-|  ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/experiencia.png )         |        ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/git.PNG )    |
+|  ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/experiencia.png?v=4&s=200 )         |        ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/git.PNG?v=4&s=200 )    |
 
 | Type of developer  | 
 | ---          |  
-|   ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/applications.PNG  ) |   
+|   ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/applications.PNG?v=4&s=200  ) |   
