@@ -1,0 +1,7 @@
+br\ufmg\dcc\labsoft\jexpert\cli\ShellScriptTerminal.class
+br\ufmg\dcc\labsoft\jexpert\util\JExpertUtils.class
+br\ufmg\dcc\labsoft\jexpert\gui\ProgressBar$1.class
+br\ufmg\dcc\labsoft\jexpert\core\DeveloperDataAnalyzer.class
+br\ufmg\dcc\labsoft\jexpert\core\ActivityExtractor.class
+br\ufmg\dcc\labsoft\jexpert\gui\ProgressBar.class
+br\ufmg\dcc\labsoft\jexpert\core\MetricsCollector.class
