@@ -5,11 +5,14 @@ Figures below reveals the participants’ background. It is worthhighlighting ha
 </p>
 
 
-| Level of education  | Course graduated |
+| (a) Level of education  | (b) Course graduated |
 | ---          |     ---        |
 |   ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG)        |      ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG)      |
 
-| Level of education  | Course graduated |
+| (c) Professional experience  | (d) Frequency of use Git  |
 | ---          |     ---        |
 |  ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG)         |        ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG)    |
 
+| Type of developer  | 
+| ---          |  
+|   ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG) |   
