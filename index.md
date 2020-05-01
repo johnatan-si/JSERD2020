@@ -11,12 +11,12 @@ Figures below reveals the participants’ background. It is worthhighlighting ha
 
 | (a) Level of education  | (b) Course graduated |
 | ---          |     ---        |
-|  <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG" width="100">  | <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/graduated.PNG" width="100"> |
+|  <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG" height="80" width="80">  | <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/graduated.PNG" height="80" width="80"> |
 
 | (c) Professional experience  | (d) Frequency of use Git  |
 | ---          |     ---        |
-|  <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/experiencia.png" width="100">         |       <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/git.PNG" width="100">    |
+|  <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/experiencia.png" height="80" width="80">         |       <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/git.PNG" height="80" width="80">    |
 
 | (e) Type of developer  | 
 | ---          |  
-|   <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/applications.PNG" width="100"> |   
+|   <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/applications.PNG" height="80" width="80"> |   
