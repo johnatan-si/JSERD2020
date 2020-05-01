@@ -7,7 +7,7 @@ Figures below reveals the participants’ background. It is worthhighlighting ha
 </p>
 
 
-
+<img src="https://github.com/johnatan-si/JSERD2020/blob/master/applications.PNG" height="80" width="80">
 
 | (a) Level of education  | (b) Course graduated |
 | ---          |     ---        |
