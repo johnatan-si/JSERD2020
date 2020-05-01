@@ -20,3 +20,7 @@ Figures below reveals the participants’ background. It is worthhighlighting ha
 | (e) Type of developer  | 
 | ---          |  
 |   <img src="https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/applications.PNG" height="250" width="250"> |   
+
+
+***
+### Data ...
