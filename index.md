@@ -6,10 +6,8 @@ Figures below reveals the participants’ background. It is worthhighlighting ha
 
 | Level of education  | Course graduated |
 | ---          |     ---        |
-|           |            |
+|| ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG)|| ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG)|
 
 | Level of education  | Course graduated |
 | ---          |     ---        |
-|           |            |
-
-
+|| ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG)|| ![](https://raw.githubusercontent.com/johnatan-si/JSERD2020/master/education.PNG)|
